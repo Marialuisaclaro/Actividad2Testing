@@ -1,0 +1,88 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/Luchita/Desktop/Testing/Actividades/A2/Actividad/pdf_pricer.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          3,
+          null,
+          null,
+          null,
+          1,
+          2,
+          null,
+          2,
+          1,
+          1,
+          null,
+          0,
+          null,
+          null,
+          null,
+          2,
+          1,
+          null,
+          1,
+          null,
+          null,
+          2,
+          1,
+          null,
+          null,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+          "[:if, 0, 33, 6, 37, 9]": {
+            "[:then, 1, 34, 8, 34, 28]": 1,
+            "[:else, 2, 36, 8, 36, 28]": 0
+          },
+          "[:if, 3, 32, 4, 38, 7]": {
+            "[:then, 4, 33, 6, 37, 9]": 1,
+            "[:else, 5, 32, 4, 38, 7]": 1
+          },
+          "[:if, 6, 40, 4, 44, 7]": {
+            "[:then, 7, 41, 6, 41, 38]": 1,
+            "[:else, 8, 43, 6, 43, 34]": 1
+          },
+          "[:if, 9, 46, 4, 48, 7]": {
+            "[:then, 10, 47, 6, 47, 23]": 1,
+            "[:else, 11, 46, 4, 48, 7]": 1
+          }
+        }
+      }
+    },
+    "timestamp": 1601673654
+  }
+}
